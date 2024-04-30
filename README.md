@@ -5,3 +5,8 @@ The "USA Accident Prediction" project employs machine learning techniques to pre
 # USA-ACCIDENT-PREDICTION
 The primary objective of the project is to develop machine learning models capable of accurately predicting car accidents in the USA. Specific goals include:
 Analyzing historical accident data to identify patterns and trends in accident occurrences. Developing predictive models using various machine learning algorithms and deep learning techniques. Evaluating the performance of the models in predicting the likelihood of accidents based on factors such as weather conditions, time of day, and geographical location.Providing actionable insights for accident prevention and mitigation efforts, thus contributing to enhancing road safety measures nationwide.
+
+
+DATASET:https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?resource=download
+
+NOTE: The prediction is done on the basis on dataset dated from 2016-2021.
